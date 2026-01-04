@@ -1,5 +1,5 @@
 // Initialization................................................
-var IMG="images/sprites.png";
+var IMG="./images/sprites.png";
 var SPRITE_IMGS=[
     {x:0,y:0,width:1088,height:640},//橙色背景123
     {x:1095,y:0,width:1088,height:640},//树远1

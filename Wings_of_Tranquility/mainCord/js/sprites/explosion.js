@@ -93,7 +93,7 @@ function updateCoordinates(sprite){
 
 // Initialization................................................
 function initExplosionSprite(){
-    explosion_SpriteSheet.src="images/explosion_spriteSheet.png";
+    explosion_SpriteSheet.src="./images/explosion_spriteSheet.png";
     explosion_SpriteSheet.onload=onExplosionSpriteLoad;
 }
 function onExplosionSpriteLoad(){

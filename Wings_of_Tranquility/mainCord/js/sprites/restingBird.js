@@ -39,7 +39,7 @@ function restBird_Animate(time) {
 
   // Initialization................................................
   function initRestBirdSprite(){
-    restBird_SpriteSheet.src="images/smallerBird_spriteSheet_left.png";
+    restBird_SpriteSheet.src="./images/smallerBird_spriteSheet_left.png";
     restBird_SpriteSheet.onload=onRestBirdSpriteLoad;
 }
 function onRestBirdSpriteLoad(){

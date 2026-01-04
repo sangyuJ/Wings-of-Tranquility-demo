@@ -35,7 +35,7 @@ function woman_Animate(time){
 }
 // Initialization................................................
 function initWomanSprite(){
-    woman_SpriteSheet.src="images/woman_idle.png";
+    woman_SpriteSheet.src="./images/woman_idle.png";
     woman_SpriteSheet.onload=onWomanSpriteLoad;
     }
 function onWomanSpriteLoad(){

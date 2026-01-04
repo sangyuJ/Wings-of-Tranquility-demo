@@ -104,7 +104,7 @@ function bird_Animate(time) {
   // Initialization................................................
 
   function initBirdSprite(){
-      bird_SpriteSheet.src="images/bird_spriteSheet.png";
+      bird_SpriteSheet.src="./images/bird_spriteSheet.png";
       bird_SpriteSheet.onload=onBirdSpriteLoad;
   }
   function onBirdSpriteLoad(){

@@ -89,7 +89,7 @@ function setSmallerBird(){
   // Initialization................................................
 
   function initSmallerBirdSprite(){
-      smallerBird_SpriteSheet.src="images/smallerBird_spriteSheet.png";
+      smallerBird_SpriteSheet.src="./images/smallerBird_spriteSheet.png";
       smallerBird_SpriteSheet.onload=onSmallerBirdSpriteLoad;
   }
   function onSmallerBirdSpriteLoad(){
