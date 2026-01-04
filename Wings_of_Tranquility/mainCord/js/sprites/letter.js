@@ -96,7 +96,7 @@ function endLetter_Animate(time){
   // Initialization................................................
   
 function initLetterLoad(){
-    letter_Img.src="./images/Letter.png";
+    letter_Img.src="./images/letter.png";
     letter_Img.onload=onLetterLoad;  
 }
 function onLetterLoad(){
