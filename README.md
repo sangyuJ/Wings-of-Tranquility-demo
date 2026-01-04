@@ -1,8 +1,8 @@
-# 《Wings of Tranquility》- 独立像素游戏原型
+# 《Wings of Tranquility》 独立像素游戏原型
 
-**一个探索“机制承载叙事”的2D弹幕躲避游戏Demo，由原生JavaScript独立开发。**
+**一个探索将叙事融入游戏机制的2D弹幕躲避游戏Demo，由原生JavaScript独立开发。**
 
-[[在线试玩]](https://sangyuJ.github.io/Wings-of-Tranquility-demo) <!-- 第二步完成后替换为真实链接 -->
+[[!在线试玩]](https://sangyuJ.github.io/Wings-of-Tranquility-demo) <!-- 第二步完成后替换为真实链接 -->
 
 ## 🎯 设计目标
 探索如何通过“主动探索”与“被动躲避”的游戏机制来承载严肃的“战争与记忆”主题，并制作了通过隐藏道具触发的双结局系统。
